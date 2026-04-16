@@ -1,0 +1,3 @@
+[submodule "mixxx_ws"]
+	path = mixxx_ws
+	url = https://github.com/hothersj/mixxx_ws
