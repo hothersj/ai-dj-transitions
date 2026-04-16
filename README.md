@@ -235,6 +235,17 @@ Key options:
 
 ---
 
+## Training Data
+
+**Note on Training Data**  
+> The model is pre-trained and distributed without any audio data, as the original
+> training set consisted of copyrighted tracks. However, the training process uses
+> the exact same feature extraction pipeline as inference. Each transition example
+> was converted into structured audio features (e.g. spectral, rhythmic, and phrase-based
+> attributes) and labelled accordingly. This ensures consistency between training
+> and real-time prediction, with the model operating purely on derived features
+> rather than raw audio.
+
 ## Acknowledgements
 
 * Uses a custom Mixxx fork with WebSocket support developed for this project:
