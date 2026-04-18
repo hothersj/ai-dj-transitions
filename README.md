@@ -231,7 +231,11 @@ Key options:
 
 ## Examples
 
-*(To be filled with real transition examples)*
+In order to test generalisation whilst staying within the House genre, I made a Rekordbox Library with unseen songs not present in the model's training data.
+Below I will list names of tracks that the model proved well generalisating to, but will not be distributing:
+
+- Steve Angello, Laidback Luke - Show Me Love (feat. Robin S) Extended Mix
+- *More to be added soon!*
 
 ---
 
