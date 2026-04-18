@@ -896,7 +896,7 @@ class AutoTransition:
                 playing_deck,
                 beat_a,
                 total_beats_playing,
-                timeout=250.0,
+                timeout=500.0,
                 verbose=True,
                 trigger_offset_beats=trigger_offset_beats,
             ):
