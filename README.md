@@ -232,10 +232,10 @@ Key options:
 ## Examples
 
 In order to test generalisation whilst staying within the House genre, I made a Rekordbox Library with unseen songs not present in the model's training data.
-Below I will list names of tracks that the model proved well generalisating to, but will not be distributing:
+Below I will list names of a couple of unseen tracks that the model proved well generalising for validation:
 
-- Steve Angello, Laidback Luke - Show Me Love (feat. Robin S) Extended Mix
-- *More to be added soon!*
+- Steve Angello, Laidback Luke - Show Me Love (feat. Robin S) Extended Mix *->* Calvin Harris, Disciples, Chris Lake - How Deep Is Your Love - Chris Lake Remix
+- Karen Harding, LuvBug - Say Something - Luvbug Remix *->* Au/Ra, CamelPhat - Panic Room - Club Mix
 
 ---
 
