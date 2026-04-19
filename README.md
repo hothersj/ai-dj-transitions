@@ -232,6 +232,7 @@ Key options:
 ## Examples
 
 In order to test generalisation whilst staying within the House genre, I made a Rekordbox Library with unseen songs not present in the model's training data.
+If you want to see the list of tracks that the model was trained on, please see *Training Data*.
 Below I will list names of a couple of unseen tracks that the model proved well generalising for validation:
 
 - Steve Angello, Laidback Luke - Show Me Love (feat. Robin S) Extended Mix *->* Calvin Harris, Disciples, Chris Lake - How Deep Is Your Love - Chris Lake Remix
@@ -249,6 +250,102 @@ Below I will list names of a couple of unseen tracks that the model proved well 
 > attributes) and labelled accordingly. This ensures consistency between training
 > and real-time prediction, with the model operating purely on derived features
 > rather than raw audio.
+
+*The track list for training, was as follows:*
+   - Dirty Cash (Money Talks) - Extended Version — Live In Lover, LX Feat.
+   - Feel 4 Me - Edit — The Trip
+   - Nite Life - M-High Extended Remix — Kim English, M-High
+   - Some Time — Roeléh
+   - Runnin Around — Clark James
+   - Hold On - Extended Mix — Nic Fanciulli, Marc E. Bassy
+   - If You - Extended Mix — Kubinowski, Mafia Mike
+   - Stay With Me — X CLUB.
+   - Fresh - House of Prayers Poolside Edit — Crazibiza, House of Prayers
+   - R U Dreaming - Harry Romero Raw Dog Remix — Damian Lazarus, Mathew Jonson
+   - Feelin’ — Avalon Child
+   - Would U Like — Soul Mass Transit System
+   - Everybody Ain’t Nobody - Original Mix — House of Prayers, Crazibiza
+   - Da Funk (feat. Joni) — Mochakk, Joni
+   - Gagarin — Sugarman
+   - Fast Times - Extended — My Friend, Steven Weston
+   - Lost In Music - Extended — Joshwa
+   - After Moods - Extended — Julius Strieder
+   - Sax Thing - Extended Mix — Capri
+   - This Dance — Martin Occo
+   - Inside (At Night) - Instrumental Club — Tommy Vee, Keller, Mauro Ferrucci
+   - Just Be Good To Me - Extended Mix — Baccus
+   - Fighting Love - Extended Mix — Mark Knight, Mark Dedross
+   - Music Is Passion — Chinonegro
+   - Pump (1991 Remix) — Chris Lorenzo
+   - Now U Do — DJ Seinfeld, Confidence Man
+   - I Want You - Extended Mix — Butch, Nic Fanciulli
+   - Do You Really Like It? — DJ Pied Piper & The Masters of Ceremonies
+   - Know You Better - Extended Mix — Luke Sica
+   - Call The Shots — Jade Cox
+   - Deep Inside - Original — Ivan Masa, HOMIEZ
+   - In The Morning — Schiela
+   - Ready For The Floor - Mella Dee Dub — Hot Chip, Mella Dee
+   - A Never Ending — Pancrazio
+   - Bette Davis Eyes - Boys Shorts Remix — Kim Carnes, Boys Shorts
+   - Devil’s Destination — PARAMIDA
+   - It’s Time — Cassy
+   - Rave Digger - Extended Breaks Mix — Genix, MC Lethal
+   - Pump It Up - Extended Mix — Kristin Velvet
+   - Permanence — Mitch Freeman
+   - MØND — Huxley
+   - First Summer — Tuccillo
+   - Time For Peace — Tiger Stripes
+   - Cada Vez — FONTI
+   - Yo Te Deseo - David Gtronic & Reboot Remix — Miguel Lobo, Miluhska
+   - Rumbero - Original Mix — Simone Liberali
+   - El House — Hector Couto, Alejandro Paz
+   - Circus — Leyeo, Easttown, Thierry Tomas
+   - From The Stars — Mochakk, The Rah Band
+   - Share My Love With You - Extended Mix — The Dirty Rabbit
+   - Do To Me — Tim Sanders
+   - Tell Me What You Want - Extended Mix — Oden & Fatzo, Poppy Baskcomb
+   - House Party — Ozzie Guven, Chris Gialanze
+   - I Can’t Stop - Joseph Capriati Extended Groove — Sandy Rivera, Joseph Capriati
+   - How Does It Make You Feel — Young Marco
+   - Always On My Mind (Let U Go) — Novaj, Louis Seigner
+   - Midnight Forever — Delta Heavy
+   - 8AM — AUTOFLOWER, DJ Afterthought
+   - Going Down — Dennis Cruz
+   - New World Expression — X CLUB.
+   - Hideaway - Extended Mix — Kiesza
+   - She’s Gone Dance On — Audiojack
+   - Body Groove - Mix Version — Architechs, Nay Nay
+   - Sinnerman - 2022 Extended Version — Swell
+   - A Fresh Energy — Gaskin
+   - House Every Weekend — David Zowie
+   - Wish You Were Mine — Dizzman
+   - The Cure & The Cause - Dennis Ferrer Remix — Fish Go Deep, Tracey K
+   - Delilah (pull me out of this) — Fred again.., Delilah Montagu
+   - You & Me — Disclosure, Eliza Doolittle
+   - Feel My Needs - Extended Mix — WEISS, James Hype
+   - Something To Me — Josh Baker
+   - Damage — Sammy Virji
+   - Do It Right - Club Mix — Martin Solveig, Tkay Maidza
+   - You Don’t Know Me - Extended Mix — Nick G
+   - Wearing My Rolex - Radio Edit — Wiley
+   - Places - Club Mix — Martin Solveig, Ina Wroldsen
+   - Still Sleepless - Extended Mix — D.O.D, Carla Monroe
+   - Why’s this dealer? — Niko B
+   - Flowers - Sunship Remix — Sweet Female Attitude
+   - Katy on a Mission — Katy B
+   - White Noise — Disclosure, AlunaGeorge
+   - Lauren (I Can’t Stay Forever) — Oden & Fatzo
+   - Too Much For Me - Extended Mix — SELKER
+   - A Little Bit Of Luck - XDBR Extended Remix — DJ Luck & MC Neat
+   - The Days - NOTION Extended Remix — Chrystal, NOTION
+   - Rinse & Repeat - Extended Mix — Riton, Kah-Lo
+   - Dance With Me - Extended Mix — Dizzee Rascal
+   - My My My - Original Club Mix — Armand Van Helden
+   - What I Might Do - Club Mix — Ben Pearce
+   - Gecko (Overdrive) - Extended — Oliver Heldens, Becky Hill
+   - Show Me (Edit) — Jethro Heston, Huxley, B
+   - Total Unison — D Stone
+   - B.O.T.A. (Baddest Of Them All) — Eliza Rose, Interplanetary Criminal
 
 ## Acknowledgements
 
